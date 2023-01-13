@@ -1,0 +1,44 @@
+ [
+    {
+        "id": 1,
+        "name": "React",
+        "logo": "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
+        "total": 8,
+        "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript. In React, you develop your applications by creating reusable components that you can think of as independent Lego blocks."
+    },
+    {
+        "id": 2,
+        "name": "JavaScript",
+        "logo": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
+        "total": 9,
+        "details":"JavaScript is a programming language used to create dynamic and interactive content on web applications and browsers.The answer: JavaScript is more difficult to master than Python. Python is usually the beginners-choice, especially for those who do not have any prior programming experience. Python code is notorious for being more readable, meaning that it is easier to understand (and write).S2PY works by translating JavaScript directly into Python. It indicates that you may run JS directly from Python code without installing large external engines like V8. To use the module it first has to be installed into the system, since it is not built-in."
+    },
+    {
+        "id": 4,
+        "name": "CSS",
+        "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+        "total": 8,
+        "details":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.ascading Style Sheets (CSS) is a stylesheet language that instructs the browser how we want our HTML to appear; it is not a programming language. More than 95% of all websites on the internet today employ CSS to establish their design, making it highly crucial"
+    },
+    {
+        "id": 5,
+        "name": "Git",
+        "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+        "total": 11, 
+        "details":"Git is a distributed version control system: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.Git is a distributed version control system: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.Git is a distributed version control system: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows."
+    },
+    {
+        "id": 6,
+        "name": "Python",
+        "logo": "https://ibb.co/QCph2Sh",
+        "total": 11,
+        "details":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
+    }, 
+    {
+        "id": 3,
+        "name": "C++",
+        "logo": "https://ibb.co/tmWnNc9",
+        "total": 11,
+        "details":"C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or C with Classes "
+    }
+]
